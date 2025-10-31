@@ -1,0 +1,15 @@
+body { 
+  font-family: system-ui, sans-serif; 
+  margin: 2rem; 
+  text-align: center; 
+  background-color: #f8f9fa;
+}
+h1 { 
+  margin-bottom: .5rem; 
+}
+button { 
+  padding: .6rem 1rem; 
+  border: 1px solid #ccc; 
+  border-radius: .5rem; 
+  cursor: pointer; 
+}
